@@ -1,1 +1,6 @@
 # An-evaluation-framework-for-comparing-causal-inference-models
+
+**Abstract:** Estimation of causal effects is the core objective of many scientific disciplines. However, it remains a challenging task, especially when the effects are estimated from observational data. Recently, several promising machine learning models have been proposed for causal effect estimation. The evaluation of these models has been based on the mean values of the error of the Average Treatment Effect (ATE) as well as of the Precision in Estimation of Heterogeneous Effect (PEHE). In this paper, we propose to complement the evaluation of causal inference models using concrete statistical evidence, including the performance profiles of Dolan and Mor{\'e}, as well as non-parametric and post-hoc statistical tests. The main motivation behind this approach is the elimination of the influence of a small number of instances or simulation on the benchmarking process, which in some cases dominate the results. We use the proposed evaluation methodology to compare several state-of-the-art causal effect estimation models. 
+
+**Keywords:** Causal inference, treatment effects, performance profiles, non-parametric
+tests, post-hoc tests
